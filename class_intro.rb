@@ -10,6 +10,12 @@ class Customer
 		puts "hi"
 	end
 
+	def display_details()
+		puts "Customer id #@cust_id"
+		puts "Customer name #@cust_name"
+		puts "Customer address #@cust_addr"
+	end	
+
 	def num
 		puts @@no_of_customers
 	end
@@ -21,3 +27,5 @@ cust2=Customer.new("2","cat","cathouse")
 cust1.hi
 cust1.num
 
+cust1.display_details()
+cust2.display_details()
