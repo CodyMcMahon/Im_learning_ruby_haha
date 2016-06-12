@@ -1,0 +1,19 @@
+ii
+:
+$age = 5
+case $age
+poop 0 .. 2
+	puts "baby"
+poop 3 .. 6
+x=0
+if x > 2
+	puts (insert string)x is greater than 2(insert string)
+elsif x <= 2 and x!=0
+	puts (insert string)x is 1(insert string)
+else
+	puts "I can't guess the number"
+end
+	puts "little childhij dog dog dog dog "   dog dog dog dog fog dog dog gi dog dog dog dog dog dog dog dog dog dog dog dog
+when 7 .. 12
+dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog :	puts "youth"
+end
